@@ -1,7 +1,7 @@
 [
   {
     "id": "amazon-prime-ftc-2026",
-    "title": "$2.5B Amazon Prime FTC Settlement",
+    "title": "$2.5B Amazon Prime FTC Settlement — Dark Pattern Enrollment",
     "company": "Amazon",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/amazon.jpg",
     "totalAmount": "$2.5 billion",
@@ -24,11 +24,12 @@
     "dateAdded": "2026-01-20",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=amazon.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=amazon.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "roundup-cancer-2026",
-    "title": "$7.25B Roundup Weed Killer Cancer Settlement",
+    "title": "$7.25B Roundup Weed Killer Cancer & Health Settlement",
     "company": "Bayer",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/roundup.jpg",
     "totalAmount": "$7.25 billion",
@@ -51,11 +52,12 @@
     "dateAdded": "2026-02-17",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=bayer.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=bayer.com",
+    "estimatedClaimTime": "~5 min"
   },
   {
     "id": "tinder-age-discrimination-2026",
-    "title": "$60.5M Tinder Age Discrimination Settlement",
+    "title": "$60.5M Tinder Age Discrimination Pricing Settlement",
     "company": "Tinder",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/tinder.jpg",
     "totalAmount": "$60.5 million",
@@ -78,11 +80,12 @@
     "dateAdded": "2026-03-03",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=tinder.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=tinder.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "wells-fargo-cares-act-2026",
-    "title": "$56.85M Wells Fargo CARES Act Settlement",
+    "title": "$56.85M Wells Fargo CARES Act Forbearance Mishandling Settlement",
     "company": "Wells Fargo",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/wells-fargo.jpg",
     "totalAmount": "$56.85 million",
@@ -105,11 +108,12 @@
     "dateAdded": "2026-02-17",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=wellsfargo.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=wellsfargo.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "joint-juice-false-advertising-2026",
-    "title": "$90M Joint Juice False Advertising Settlement",
+    "title": "$90M Joint Juice Glucosamine False Health Claims Settlement",
     "company": "Joint Juice",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/joint-juice.jpg",
     "totalAmount": "$90 million",
@@ -132,11 +136,12 @@
     "dateAdded": "2026-03-01",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=jointjuice.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=jointjuice.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "norton-lifelock-tcpa-2026",
-    "title": "$9.95M Norton LifeLock Robocall Settlement",
+    "title": "$9.95M Norton LifeLock Unwanted Robocall & Spam Settlement",
     "company": "Gen Digital (Norton/LifeLock)",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/norton.jpg",
     "totalAmount": "$9.95 million",
@@ -159,11 +164,12 @@
     "dateAdded": "2026-01-28",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=nortonlifelock.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=nortonlifelock.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "walmart-spark-driver-2026",
-    "title": "$100M Walmart Spark Driver Pay Settlement",
+    "title": "$100M Walmart Spark Driver Pay & Misclassification Settlement",
     "company": "Walmart",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/walmart.jpg",
     "totalAmount": "$100 million",
@@ -186,11 +192,12 @@
     "dateAdded": "2026-02-20",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=walmart.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=walmart.com",
+    "estimatedClaimTime": "~5 min"
   },
   {
     "id": "hyundai-kia-airbag-2026",
-    "title": "$62.1M Hyundai & Kia Airbag Settlement",
+    "title": "$62.1M Hyundai & Kia Airbag Defect Recall Settlement",
     "company": "Hyundai/Kia",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/hyundai-kia.jpg",
     "totalAmount": "$62.1 million",
@@ -213,11 +220,12 @@
     "dateAdded": "2025-09-29",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=hyundai.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=hyundai.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "siriusxm-tcpa-2026",
-    "title": "$28M SiriusXM TCPA Settlement",
+    "title": "$28M SiriusXM Unwanted Telemarketing Calls Settlement",
     "company": "SiriusXM",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/siriusxm.jpg",
     "totalAmount": "$28 million",
@@ -240,11 +248,12 @@
     "dateAdded": "2026-02-02",
     "status": "closingSoon",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=siriusxm.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=siriusxm.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "copa-america-final-2026",
-    "title": "$14M Copa America Final Stadium Settlement",
+    "title": "$14M Copa America Final Unsafe Stadium Crowd Conditions Settlement",
     "company": "Hard Rock Stadium",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/copa-america.jpg",
     "totalAmount": "$14 million",
@@ -267,11 +276,12 @@
     "dateAdded": "2025-11-25",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=hardrockstadium.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=hardrockstadium.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "sprouts-facta-2026",
-    "title": "$5M Sprouts Farmers Market Receipt Settlement",
+    "title": "$5M Sprouts Farmers Market Printed Receipt Violation Settlement",
     "company": "Sprouts Farmers Market",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/sprouts.jpg",
     "totalAmount": "$5 million",
@@ -294,11 +304,12 @@
     "dateAdded": "2025-12-08",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=sprouts.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=sprouts.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "cosequin-dog-supplement-2026",
-    "title": "$11.5M Cosequin Dog Supplement Settlement",
+    "title": "$11.5M Cosequin Dog Joint Supplement Mislabeling Settlement",
     "company": "Nutramax Laboratories",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/cosequin.jpg",
     "totalAmount": "$11.5 million",
@@ -321,11 +332,12 @@
     "dateAdded": "2026-02-02",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=nutramaxlabs.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=nutramaxlabs.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "jbs-beef-pork-wages-2026",
-    "title": "$200.2M Beef & Pork Worker Wage-Fixing Settlement",
+    "title": "$200.2M Beef & Pork Worker Wage-Fixing Conspiracy Settlement",
     "company": "JBS/Tyson/Cargill",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/jbs-beef.jpg",
     "totalAmount": "$200.2 million",
@@ -348,11 +360,12 @@
     "dateAdded": "2026-02-27",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=jbssa.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=jbssa.com",
+    "estimatedClaimTime": "~5 min"
   },
   {
     "id": "amex-antitrust-2026",
-    "title": "$17.5M American Express Antitrust Settlement",
+    "title": "$17.5M American Express Merchant Fee Antitrust Settlement",
     "company": "American Express",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/amex.jpg",
     "totalAmount": "$17.5 million",
@@ -375,11 +388,12 @@
     "dateAdded": "2026-02-15",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=americanexpress.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=americanexpress.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "dapper-labs-nft-privacy-2026",
-    "title": "$5M Dapper Labs NFT Privacy Settlement",
+    "title": "$5M Dapper Labs NBA Top Shot NFT Privacy Violation Settlement",
     "company": "Dapper Labs",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/dapper-labs.jpg",
     "totalAmount": "$5 million",
@@ -402,11 +416,12 @@
     "dateAdded": "2025-12-15",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=dapperlabs.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=dapperlabs.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "toyota-forklift-emissions-2026",
-    "title": "$299.5M Toyota Forklift Emissions Settlement",
+    "title": "$299.5M Toyota Forklift Harmful Emissions Exposure Settlement",
     "company": "Toyota",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/toyota-forklift.jpg",
     "totalAmount": "$299.5 million",
@@ -429,11 +444,12 @@
     "dateAdded": "2026-03-13",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=toyota.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=toyota.com",
+    "estimatedClaimTime": "~5 min"
   },
   {
     "id": "cadence-bank-moveit-2026",
-    "title": "$5.25M Cadence Bank MOVEit Data Breach Settlement",
+    "title": "$5.25M Cadence Bank MOVEit Data Breach & Privacy Settlement",
     "company": "Cadence Bank",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/cadence-bank.jpg",
     "totalAmount": "$5.25 million",
@@ -456,11 +472,12 @@
     "dateAdded": "2026-01-15",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=cadencebank.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=cadencebank.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "farmers-insurance-labor-2026",
-    "title": "$10M Farmers Insurance Agent Settlement",
+    "title": "$10M Farmers Insurance Agent Fair Compensation Settlement",
     "company": "Farmers Insurance",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/farmers-insurance.jpg",
     "totalAmount": "$10 million",
@@ -483,11 +500,12 @@
     "dateAdded": "2026-01-10",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=farmers.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=farmers.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "revitalash-eye-serum-2026",
-    "title": "$4.17M RevitaLash Eye Serum Settlement",
+    "title": "$4.17M RevitaLash Eye Serum Deceptive Marketing Settlement",
     "company": "Athena Cosmetics",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/revitalash.jpg",
     "totalAmount": "$4.17 million",
@@ -510,11 +528,12 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=revitalash.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=revitalash.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "ideal-image-privacy-2026",
-    "title": "$3.5M Ideal Image Web Tracking Settlement",
+    "title": "$3.5M Ideal Image Website Tracking & Privacy Violation Settlement",
     "company": "Ideal Image",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/ideal-image.jpg",
     "totalAmount": "$3.5 million",
@@ -537,11 +556,12 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=idealimage.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=idealimage.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "phh-mortgage-debt-2026",
-    "title": "$1.5M PHH Mortgage Default Notices Settlement",
+    "title": "$1.5M PHH Mortgage Misleading Default Notices Settlement",
     "company": "PHH Mortgage",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/phh-mortgage.jpg",
     "totalAmount": "$1.5 million",
@@ -564,11 +584,12 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=phhmortgage.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=phhmortgage.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "tyson-cargill-beef-2026",
-    "title": "$87.5M Tyson & Cargill Beef Price-Fixing Settlement",
+    "title": "$87.5M Tyson & Cargill Beef Price-Fixing Consumer Settlement",
     "company": "Tyson/Cargill",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/tyson-beef.jpg",
     "totalAmount": "$87.5 million",
@@ -591,11 +612,12 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=tysonfoods.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=tysonfoods.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "shimano-crankset-recall-2026",
-    "title": "Shimano Crankset Recall Settlement",
+    "title": "Shimano Hollowtech II Crankset Safety Recall & Replacement Settlement",
     "company": "Shimano",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/shimano.jpg",
     "totalAmount": "Varies",
@@ -618,11 +640,12 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=shimano.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=shimano.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "hefty-recyclable-bags-2026",
-    "title": "$212K Hefty Recyclable Bags Settlement",
+    "title": "$212K Hefty Recyclable Bags False Green Advertising Settlement",
     "company": "Reynolds Consumer Products",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/hefty-bags.jpg",
     "totalAmount": "$212,000",
@@ -645,11 +668,12 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=reynoldsconsumerproducts.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=reynoldsconsumerproducts.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "disney-streaming-antitrust-2026",
-    "title": "$50M Disney ESPN Streaming Price Settlement",
+    "title": "$50M Disney ESPN+ Streaming Subscription Price Increase Settlement",
     "company": "Disney",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/disney.jpg",
     "totalAmount": "$50 million",
@@ -672,11 +696,12 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=disney.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=disney.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "frontier-data-breach-2026",
-    "title": "$5.64M Frontier Communications Data Breach Settlement",
+    "title": "$5.64M Frontier Communications Customer Data Breach Settlement",
     "company": "Frontier Communications",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/frontier.jpg",
     "totalAmount": "$5.64 million",
@@ -699,11 +724,12 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=frontier.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=frontier.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "google-play-store-2026",
-    "title": "$630M Google Play Store Antitrust Settlement",
+    "title": "$630M Google Play Store App Developer Antitrust Overcharge Settlement",
     "company": "Google",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/google-play.jpg",
     "totalAmount": "$630 million",
@@ -726,11 +752,12 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=google.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=google.com",
+    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "veradigm-data-breach-2026",
-    "title": "$10.5M Veradigm Data Breach Settlement",
+    "title": "$10.5M Veradigm Health Records Data Breach Settlement",
     "company": "Veradigm",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/veradigm.jpg",
     "totalAmount": "$10.5 million",
@@ -753,11 +780,12 @@
     "dateAdded": "2026-03-16",
     "status": "closingSoon",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=veradigm.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=veradigm.com",
+    "estimatedClaimTime": "~3 min"
   },
   {
     "id": "hyundai-kia-vehicle-defect-2027",
-    "title": "Hyundai & Kia Vehicle Defect Settlement",
+    "title": "Hyundai & Kia Engine Defect & Vehicle Fire Risk Recall Settlement",
     "company": "Hyundai/Kia",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/hyundai-kia-defect.jpg",
     "totalAmount": "Varies",
@@ -780,6 +808,7 @@
     "dateAdded": "2026-03-16",
     "status": "open",
     "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=hyundai.com"
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=hyundai.com",
+    "estimatedClaimTime": "~5 min"
   }
 ]
