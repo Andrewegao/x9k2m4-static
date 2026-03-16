@@ -23,7 +23,8 @@
     "caseInfo": "FTC v. Amazon.com Inc., Case No. 2:23-cv-00932-JHC",
     "dateAdded": "2026-01-20",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=amazon.com"
   },
   {
     "id": "roundup-cancer-2026",
@@ -49,7 +50,8 @@
     "caseInfo": "22nd Judicial Circuit Court, City of St. Louis, Missouri",
     "dateAdded": "2026-02-17",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=bayer.com"
   },
   {
     "id": "tinder-age-discrimination-2026",
@@ -75,7 +77,8 @@
     "caseInfo": "Candelore v. Tinder, Inc., Case No. BC583162, Superior Court of California, Los Angeles",
     "dateAdded": "2026-03-03",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=tinder.com"
   },
   {
     "id": "wells-fargo-cares-act-2026",
@@ -101,7 +104,8 @@
     "caseInfo": "Stoff v. Wells Fargo Bank N.A., Case No. 37-2020-00020808-CU-BT-CTL",
     "dateAdded": "2026-02-17",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=wellsfargo.com"
   },
   {
     "id": "joint-juice-false-advertising-2026",
@@ -127,7 +131,8 @@
     "caseInfo": "Joint Juice False Advertising Litigation",
     "dateAdded": "2026-03-01",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=jointjuice.com"
   },
   {
     "id": "norton-lifelock-tcpa-2026",
@@ -153,7 +158,8 @@
     "caseInfo": "Jackson v. Gen Digital Inc., U.S. District Court, District of Arizona",
     "dateAdded": "2026-01-28",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=nortonlifelock.com"
   },
   {
     "id": "walmart-spark-driver-2026",
@@ -179,7 +185,8 @@
     "caseInfo": "FTC v. Walmart Inc.",
     "dateAdded": "2026-02-20",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=walmart.com"
   },
   {
     "id": "hyundai-kia-airbag-2026",
@@ -205,7 +212,8 @@
     "caseInfo": "In re: ZF-TRW Airbag Control Units Products Liability Litigation",
     "dateAdded": "2025-09-29",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=hyundai.com"
   },
   {
     "id": "siriusxm-tcpa-2026",
@@ -231,7 +239,8 @@
     "caseInfo": "Campbell, et al. v. SiriusXM Radio Inc., Case No. 2:22-cv-2261-CSB-EIL",
     "dateAdded": "2026-02-02",
     "status": "closingSoon",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=siriusxm.com"
   },
   {
     "id": "copa-america-final-2026",
@@ -257,7 +266,8 @@
     "caseInfo": "Copa America Final Class Action, Miami",
     "dateAdded": "2025-11-25",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=hardrockstadium.com"
   },
   {
     "id": "sprouts-facta-2026",
@@ -283,7 +293,8 @@
     "caseInfo": "Tran, et al. v. Sprouts Farmers Market Inc., Case No. 22STCV26572",
     "dateAdded": "2025-12-08",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=sprouts.com"
   },
   {
     "id": "cosequin-dog-supplement-2026",
@@ -309,7 +320,8 @@
     "caseInfo": "Cosequin Dog Supplement Class Action, California",
     "dateAdded": "2026-02-02",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=nutramaxlabs.com"
   },
   {
     "id": "jbs-beef-pork-wages-2026",
@@ -335,7 +347,8 @@
     "caseInfo": "Brown et al. v. JBS USA Food Company et al., Case No. 1:22-cv-02946",
     "dateAdded": "2026-02-27",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=jbssa.com"
   },
   {
     "id": "amex-antitrust-2026",
@@ -361,7 +374,8 @@
     "caseInfo": "American Express Antitrust Litigation, Illinois",
     "dateAdded": "2026-02-15",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=americanexpress.com"
   },
   {
     "id": "dapper-labs-nft-privacy-2026",
@@ -387,7 +401,8 @@
     "caseInfo": "Dapper Labs NFT Privacy Class Action",
     "dateAdded": "2025-12-15",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=dapperlabs.com"
   },
   {
     "id": "toyota-forklift-emissions-2026",
@@ -413,7 +428,8 @@
     "caseInfo": "Toyota Forklift Emissions Class Action",
     "dateAdded": "2026-03-13",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=toyota.com"
   },
   {
     "id": "cadence-bank-moveit-2026",
@@ -439,7 +455,8 @@
     "caseInfo": "Cadence Bank MOVEit Data Breach Litigation",
     "dateAdded": "2026-01-15",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=cadencebank.com"
   },
   {
     "id": "farmers-insurance-labor-2026",
@@ -465,7 +482,8 @@
     "caseInfo": "Ruffulo v. Farmers Insurance",
     "dateAdded": "2026-01-10",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=farmers.com"
   },
   {
     "id": "revitalash-eye-serum-2026",
@@ -491,7 +509,8 @@
     "caseInfo": "Athena Cosmetics RevitaLash Settlement",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=revitalash.com"
   },
   {
     "id": "ideal-image-privacy-2026",
@@ -517,7 +536,8 @@
     "caseInfo": "Gayle Minano v. Ideal Image Development Corp., Case No. 23-CA-014439",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=idealimage.com"
   },
   {
     "id": "phh-mortgage-debt-2026",
@@ -543,7 +563,8 @@
     "caseInfo": "Williams et al. v. PHH Mortgage Corp., Case No. 3:25-cv-00144-KDB-UMJ",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=phhmortgage.com"
   },
   {
     "id": "tyson-cargill-beef-2026",
@@ -569,7 +590,8 @@
     "caseInfo": "In re: Cattle and Beef Antitrust Litigation, Case No. 0:22-MD-3031",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=tysonfoods.com"
   },
   {
     "id": "shimano-crankset-recall-2026",
@@ -595,7 +617,8 @@
     "caseInfo": "In re Shimano Crankset Litigation, Case No. 8:23-cv-02038-JVS-JDE",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=shimano.com"
   },
   {
     "id": "hefty-recyclable-bags-2026",
@@ -621,7 +644,8 @@
     "caseInfo": "State of Arizona v. Reynolds Consumer Products Inc., et al.",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=reynoldsconsumerproducts.com"
   },
   {
     "id": "disney-streaming-antitrust-2026",
@@ -647,7 +671,8 @@
     "caseInfo": "Disney ESPN Streaming Antitrust Settlement",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=disney.com"
   },
   {
     "id": "frontier-data-breach-2026",
@@ -673,7 +698,8 @@
     "caseInfo": "Wilson v. Frontier Communications Parent Inc.",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=frontier.com"
   },
   {
     "id": "google-play-store-2026",
@@ -699,7 +725,8 @@
     "caseInfo": "State of Utah et al. v. Google LLC et al., Case No. 3:21-cv-05227-JD",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=google.com"
   },
   {
     "id": "veradigm-data-breach-2026",
@@ -725,7 +752,8 @@
     "caseInfo": "Goodrum et al. v. Veradigm Inc., Case No. 1:25-cv-07062",
     "dateAdded": "2026-03-16",
     "status": "closingSoon",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=veradigm.com"
   },
   {
     "id": "hyundai-kia-vehicle-defect-2027",
@@ -751,6 +779,7 @@
     "caseInfo": "Hyundai/Kia Vehicle Defect Settlement",
     "dateAdded": "2026-03-16",
     "status": "open",
-    "claimCount": null
+    "claimCount": null,
+    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=hyundai.com"
   }
 ]
