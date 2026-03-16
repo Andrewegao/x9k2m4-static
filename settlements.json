@@ -7,7 +7,7 @@
     "totalAmount": "$2.5 billion",
     "individualPayout": "Up to $51",
     "deadline": "2026-07-23",
-    "category": "Consumer Protection",
+    "category": "Consumer",
     "eligibility": "Consumers who signed up for Amazon Prime between June 23, 2019 and June 23, 2025 through a challenged enrollment flow, or who attempted to cancel but were unable to do so.",
     "eligibilityBullets": [
       "Signed up for Amazon Prime between June 2019 and June 2025",
@@ -33,7 +33,7 @@
     "totalAmount": "$7.25 billion",
     "individualPayout": "$10,000 - $165,000+",
     "deadline": "2026-12-31",
-    "category": "Product Liability",
+    "category": "Product",
     "eligibility": "U.S. residents exposed to Roundup weed killers before February 17, 2026, who were diagnosed with non-Hodgkin lymphoma.",
     "eligibilityBullets": [
       "Used Roundup weed killer (occupational or residential)",
@@ -48,7 +48,7 @@
     "scope": "Nationwide",
     "caseInfo": "22nd Judicial Circuit Court, City of St. Louis, Missouri",
     "dateAdded": "2026-02-17",
-    "status": "pending",
+    "status": "open",
     "claimCount": null
   },
   {
@@ -59,7 +59,7 @@
     "totalAmount": "$60.5 million",
     "individualPayout": "Varies",
     "deadline": "2026-08-18",
-    "category": "Consumer Protection",
+    "category": "Consumer",
     "eligibility": "Consumers who purchased Tinder Plus or Tinder Gold in California when over age 29 (on or after March 2, 2015) or over age 28 (on or after March 2, 2016) and were charged a higher price due to their age.",
     "eligibilityBullets": [
       "Purchased Tinder Plus or Tinder Gold in California",
@@ -111,7 +111,7 @@
     "totalAmount": "$90 million",
     "individualPayout": "Varies (pro rata)",
     "deadline": "2026-05-15",
-    "category": "False Advertising",
+    "category": "Consumer",
     "eligibility": "Consumers who purchased Joint Juice glucosamine supplements in California, Connecticut, Florida, Illinois, Maryland, Massachusetts, Michigan, Pennsylvania, or New York.",
     "eligibilityBullets": [
       "Purchased Joint Juice glucosamine supplements",
@@ -163,7 +163,7 @@
     "totalAmount": "$100 million",
     "individualPayout": "Varies",
     "deadline": "2026-12-31",
-    "category": "Labor",
+    "category": "Employment",
     "eligibility": "Walmart Spark delivery drivers who lost earnings due to deceptive pay representations or withheld tips.",
     "eligibilityBullets": [
       "Worked as a Walmart Spark delivery driver",
@@ -178,7 +178,7 @@
     "scope": "Nationwide",
     "caseInfo": "FTC v. Walmart Inc.",
     "dateAdded": "2026-02-20",
-    "status": "pending",
+    "status": "open",
     "claimCount": null
   },
   {
@@ -241,7 +241,7 @@
     "totalAmount": "$14 million",
     "individualPayout": "Up to $2,000",
     "deadline": "2026-08-11",
-    "category": "Consumer Protection",
+    "category": "Consumer",
     "eligibility": "Valid ticketholders to the Copa America Final on July 14, 2024 at Hard Rock Stadium who were denied entry or admitted but denied full access to their purchased seats.",
     "eligibilityBullets": [
       "Held a valid ticket to the Copa America Final on July 14, 2024",
@@ -293,7 +293,7 @@
     "totalAmount": "$11.5 million",
     "individualPayout": "Up to $150",
     "deadline": "2026-07-21",
-    "category": "False Advertising",
+    "category": "Consumer",
     "eligibility": "California residents who purchased Cosequin canine joint supplements for personal use between May 3, 2016 and May 6, 2022.",
     "eligibilityBullets": [
       "Reside (or resided) in California",
@@ -319,7 +319,7 @@
     "totalAmount": "$200.2 million",
     "individualPayout": "Varies (pro rata)",
     "deadline": "2027-02-04",
-    "category": "Labor",
+    "category": "Employment",
     "eligibility": "Employees who worked at a beef or pork processing plant for JBS, Tyson, Cargill, Hormel, National Beef, Seaboard, Smithfield, or Perdue between January 1, 2000 and February 27, 2024.",
     "eligibilityBullets": [
       "Worked at a beef or pork processing plant in the continental U.S.",
@@ -345,7 +345,7 @@
     "totalAmount": "$17.5 million",
     "individualPayout": "Varies (pro rata share)",
     "deadline": "2026-05-19",
-    "category": "Antitrust",
+    "category": "Financial",
     "eligibility": "Consumers who used a nonrewards Visa, Mastercard, or Discover credit card at qualifying retailers in Illinois between 2015 and 2022.",
     "eligibilityBullets": [
       "Used a non-rewards Visa, Mastercard, or Discover credit card",
@@ -397,7 +397,7 @@
     "totalAmount": "$299.5 million",
     "individualPayout": "$1,000 - $2,500 per forklift",
     "deadline": "2026-09-22",
-    "category": "False Advertising",
+    "category": "Consumer",
     "eligibility": "Individuals or businesses that purchased or leased a Toyota internal combustion (IC) forklift built between 2007 and 2021.",
     "eligibilityBullets": [
       "Purchased or leased a Toyota IC forklift",
@@ -449,7 +449,7 @@
     "totalAmount": "$10 million",
     "individualPayout": "Varies",
     "deadline": "2026-06-30",
-    "category": "Labor",
+    "category": "Employment",
     "eligibility": "Employees who worked as a Farmers Insurance agent outside California between March 9, 2020 and September 30, 2025.",
     "eligibilityBullets": [
       "Worked as a Farmers Insurance agent",
