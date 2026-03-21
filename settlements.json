@@ -1456,34 +1456,6 @@
     "estimatedClaimTime": "~10 min"
   },
   {
-    "id": "nissan-cvt-transmission-2026",
-    "title": "Nissan CVT Transmission Settlement — Up to $5,000",
-    "company": "Nissan",
-    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/nissan-cvt.jpg",
-    "totalAmount": "Not disclosed",
-    "individualPayout": "Up to $5,000",
-    "deadline": null,
-    "category": "Automotive",
-    "eligibility": "Individuals who owned or leased a 2014-2018 Nissan Rogue, 2015-2018 Nissan Pathfinder, or 2015-2018 Infiniti QX60.",
-    "eligibilityBullets": [
-      "Owned or leased a 2014-2018 Rogue, 2015-2018 Pathfinder, or 2015-2018 Infiniti QX60",
-      "Experienced CVT transmission issues",
-      "Proof of ownership and repair records required"
-    ],
-    "proofRequired": true,
-    "proofDetails": "Proof of ownership or lease and documentation of CVT transmission repairs or issues.",
-    "claimURL": "http://www.roguepathfinderqx60cvtsettlement.com/",
-    "sourceURL": "https://www.classaction.org/settlements",
-    "summary": "Nissan agreed to settle claims related to defective CVT transmissions in Rogue, Pathfinder, and Infiniti QX60 vehicles. Payouts can reach up to $5,000 depending on repairs and expenses. Claims accepted on a rolling basis.",
-    "scope": "Nationwide",
-    "caseInfo": "Nissan CVT Transmissions Settlement",
-    "dateAdded": "2026-03-21",
-    "status": "open",
-    "claimCount": null,
-    "logoURL": "https://www.google.com/s2/favicons?sz=128&domain=nissanusa.com",
-    "estimatedClaimTime": "~10 min"
-  },
-  {
     "id": "kia-engine-failure-2026",
     "title": "Kia Engine Failure Settlement",
     "company": "Kia",
