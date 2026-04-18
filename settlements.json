@@ -106,7 +106,7 @@
     "scope": "California",
     "caseInfo": "Stoff v. Wells Fargo Bank N.A., Case No. 37-2020-00020808-CU-BT-CTL",
     "dateAdded": "2026-02-17",
-    "status": "open",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/wellsfargo-com.png",
     "estimatedClaimTime": "~3 min"
@@ -162,7 +162,7 @@
     "scope": "Nationwide",
     "caseInfo": "Jackson v. Gen Digital Inc., U.S. District Court, District of Arizona",
     "dateAdded": "2026-01-28",
-    "status": "open",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/nortonlifelock-com.png",
     "estimatedClaimTime": "~2 min"
@@ -386,7 +386,7 @@
     "scope": "Nationwide",
     "caseInfo": "Dapper Labs NFT Privacy Class Action",
     "dateAdded": "2025-12-15",
-    "status": "open",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/dapperlabs-com.png",
     "estimatedClaimTime": "~5 min"
@@ -498,7 +498,7 @@
     "scope": "Nationwide",
     "caseInfo": "Athena Cosmetics RevitaLash Settlement",
     "dateAdded": "2026-03-16",
-    "status": "open",
+    "status": "closingSoon",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/revitalash-com.png",
     "estimatedClaimTime": "~2 min"
@@ -890,7 +890,7 @@
     "scope": "Nationwide",
     "caseInfo": "Panda Restaurant Group Data Breach Settlement",
     "dateAdded": "2026-03-21",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/pandaexpress-com.png",
     "estimatedClaimTime": "~3 min"
@@ -974,7 +974,7 @@
     "scope": "Nationwide",
     "caseInfo": "NextGen Healthcare Data Breach Settlement",
     "dateAdded": "2026-03-21",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/nextgen-com.png",
     "estimatedClaimTime": "~3 min"
@@ -1030,7 +1030,7 @@
     "scope": "Northwestern University",
     "caseInfo": "Northwestern University COVID Tuition Settlement",
     "dateAdded": "2026-03-21",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/northwestern-edu.png",
     "estimatedClaimTime": "~2 min"
@@ -1114,7 +1114,7 @@
     "scope": "California",
     "caseInfo": "GameSpot Data Privacy (California) Settlement",
     "dateAdded": "2026-03-21",
-    "status": "open",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/gamespot-com.png",
     "estimatedClaimTime": "~2 min"
@@ -1170,7 +1170,7 @@
     "scope": "Nationwide",
     "caseInfo": "G.Skill DDR Memory Products Settlement",
     "dateAdded": "2026-03-21",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/gskill-com.png",
     "estimatedClaimTime": "~2 min"
@@ -1198,7 +1198,7 @@
     "scope": "Illinois",
     "caseInfo": "EasyWorkforce Biometric Privacy (Illinois) Settlement",
     "dateAdded": "2026-03-21",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/easyworkforce-com.png",
     "estimatedClaimTime": "~2 min"
@@ -1646,7 +1646,7 @@
     "scope": "Nationwide",
     "caseInfo": "Avanquest Software Subscription Fees Settlement",
     "dateAdded": "2026-03-21",
-    "status": "open",
+    "status": "closingSoon",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/avanquest-com.png",
     "estimatedClaimTime": "~2 min"
@@ -1674,7 +1674,7 @@
     "scope": "Illinois",
     "caseInfo": "Papa John's Biometric Privacy (Illinois) Settlement",
     "dateAdded": "2026-03-21",
-    "status": "open",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/papajohns-com.png",
     "estimatedClaimTime": "~2 min"
@@ -1702,7 +1702,7 @@
     "scope": "California",
     "caseInfo": "Belkin Power Banks (California) Settlement",
     "dateAdded": "2026-03-21",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/belkin-com.png",
     "estimatedClaimTime": "~3 min"
@@ -1730,7 +1730,7 @@
     "scope": "Nationwide",
     "caseInfo": "NRS Pay Unwanted Calls Settlement",
     "dateAdded": "2026-03-21",
-    "status": "open",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/nrspay-com.png",
     "estimatedClaimTime": "~2 min"
@@ -1814,7 +1814,7 @@
     "scope": "Nationwide",
     "caseInfo": "Northwell Health Data Privacy Settlement",
     "dateAdded": "2026-03-21",
-    "status": "open",
+    "status": "closingSoon",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/northwell-edu.png",
     "estimatedClaimTime": "~2 min"
@@ -1954,7 +1954,7 @@
     "scope": "Nationwide",
     "caseInfo": null,
     "dateAdded": "2026-03-23",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/natera-com.png",
     "estimatedClaimTime": "~2 min"
@@ -1982,7 +1982,7 @@
     "scope": "Nationwide",
     "caseInfo": null,
     "dateAdded": "2026-03-23",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/americanaddictioncenters-org.png",
     "estimatedClaimTime": "~5 min"
@@ -2010,7 +2010,7 @@
     "scope": "Maryland",
     "caseInfo": null,
     "dateAdded": "2026-03-23",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/usaa-com.png",
     "estimatedClaimTime": "~5 min"
@@ -2038,7 +2038,7 @@
     "scope": "Chicago, IL",
     "caseInfo": null,
     "dateAdded": "2026-03-23",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/doordash-com.png",
     "estimatedClaimTime": "~5 min"
@@ -2066,7 +2066,7 @@
     "scope": "Nationwide",
     "caseInfo": null,
     "dateAdded": "2026-03-23",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/nationwide-com.png",
     "estimatedClaimTime": "~5 min"
@@ -2094,7 +2094,7 @@
     "scope": "Multi-state (CA, CT, DE, ME, MD, MA, OR, PA, RI, VT, WA)",
     "caseInfo": null,
     "dateAdded": "2026-03-23",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/chrysler-com.png",
     "estimatedClaimTime": "~5 min"
@@ -2122,7 +2122,7 @@
     "scope": "Washington",
     "caseInfo": null,
     "dateAdded": "2026-03-23",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/target-com.png",
     "estimatedClaimTime": "~5 min"
@@ -2150,7 +2150,7 @@
     "scope": "Missouri",
     "caseInfo": null,
     "dateAdded": "2026-03-23",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/statefarm-com.png",
     "estimatedClaimTime": "~5 min"
@@ -2178,9 +2178,121 @@
     "scope": "Nationwide",
     "caseInfo": null,
     "dateAdded": "2026-03-23",
-    "status": "closingSoon",
+    "status": "closed",
     "claimCount": null,
     "logoURL": null,
     "estimatedClaimTime": "~5 min"
+  },
+  {
+    "id": "comcast-data-breach-2026",
+    "title": "$117.5M Comcast Data Breach Settlement",
+    "company": "Comcast",
+    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/comcast-data-breach.jpg",
+    "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/comcast-com.png",
+    "totalAmount": "$117.5 million",
+    "individualPayout": "$50 (or up to $10,000 with proof)",
+    "deadline": "2026-08-14",
+    "category": "Data Breach",
+    "eligibility": "Consumers who received a data breach notification from Comcast about the Oct. 2023 breach",
+    "eligibilityBullets": [
+      "Received a data breach notice from Comcast",
+      "Information was compromised between Oct. 16-19, 2023",
+      "Comcast publicly disclosed the breach in Dec. 2023"
+    ],
+    "proofRequired": true,
+    "proofDetails": "You need your Unique ID from the breach notification letter (or look it up on ComcastBreachSettlement.com). No receipts needed for the $50 flat payment. Documentation required for up to $10,000 in out-of-pocket losses.",
+    "claimURL": "https://forms.ksacms.com/efiling/fr/eform/comcastbreachsettlement_claimform/new?form-version=1",
+    "sourceURL": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/117-5m-comcast-data-breach-class-action-settlement/",
+    "summary": "Comcast agreed to pay $117.5 million after a 2023 data breach compromised customer information. You can claim $50 with no proof, or up to $10,000 for documented losses like identity theft or credit monitoring costs. Also includes 3 years of free identity protection services.",
+    "scope": "Nationwide",
+    "caseInfo": "Hasson v. Comcast Cable Communications LLC, Case No. 2:23-cv-05039-JMY, U.S. District Court for the Eastern District of Pennsylvania",
+    "dateAdded": "2026-04-18",
+    "status": "open",
+    "claimCount": 0,
+    "estimatedClaimTime": "5 minutes"
+  },
+  {
+    "id": "colgate-toms-of-maine-2026",
+    "title": "$2.9M Tom's of Maine Toothpaste Contamination Settlement",
+    "company": "Colgate-Palmolive",
+    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/colgate-toms-of-maine.jpg",
+    "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/tomsofmaine-com.png",
+    "totalAmount": "$2.9 million",
+    "individualPayout": "Refund for up to 3 products",
+    "deadline": "2026-07-06",
+    "category": "Product",
+    "eligibility": "Anyone who purchased Tom's of Maine toothpaste between Nov. 2020 and March 2026",
+    "eligibilityBullets": [
+      "Purchased any Tom's of Maine brand toothpaste",
+      "Purchase was between Nov. 21, 2020 and March 6, 2026",
+      "No proof of purchase required (but receipts increase payout)"
+    ],
+    "proofRequired": false,
+    "proofDetails": "No proof of purchase required. With a receipt, you can get a full refund for up to 3 products.",
+    "claimURL": "https://www.toothpastesettlement.com/Login",
+    "sourceURL": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-9m-colgate-toms-of-maine-contamination-class-action-settlement/",
+    "summary": "Colgate-Palmolive is paying $2.9 million after an FDA inspection found Tom's of Maine toothpaste failed manufacturing standards. If you bought any Tom's of Maine toothpaste since Nov. 2020, you can get a cash refund — no receipt needed.",
+    "scope": "Nationwide",
+    "caseInfo": "Rabinowitz, et al. v. Colgate-Palmolive Co., et al., Case No. 2:25-cv-06996-JMW, U.S. District Court for the Eastern District of New York",
+    "dateAdded": "2026-04-18",
+    "status": "open",
+    "claimCount": 0,
+    "estimatedClaimTime": "3 minutes"
+  },
+  {
+    "id": "grubhub-driver-misclassification-ca-2026",
+    "title": "$24.75M Grubhub Driver Misclassification Settlement",
+    "company": "Grubhub",
+    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/grubhub-driver-misclassification.jpg",
+    "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/grubhub-com.png",
+    "totalAmount": "$24.75 million",
+    "individualPayout": "$25+",
+    "deadline": "2026-06-18",
+    "category": "Employment",
+    "eligibility": "Grubhub delivery drivers who completed at least one delivery in California between Dec. 2014 and March 2026",
+    "eligibilityBullets": [
+      "Used the Grubhub platform as an independent contractor",
+      "Accepted or completed at least one delivery in California",
+      "Drove for Grubhub between Dec. 3, 2014 and March 13, 2026"
+    ],
+    "proofRequired": true,
+    "proofDetails": "You must have been a Grubhub delivery driver in California. Grubhub has records of who drove for them — the settlement admin will verify your identity.",
+    "claimURL": "https://grubhubcalsettlement.com/form/claim",
+    "sourceURL": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/24-75m-grubhub-driver-misclassification-class-action-settlement/",
+    "summary": "Grubhub is paying $24.75 million to settle claims it misclassified California delivery drivers as independent contractors instead of employees. If you made any Grubhub deliveries in California, you can claim at least $25 — more if you drove more miles.",
+    "scope": "California",
+    "caseInfo": "Lawson, et al. v. Grubhub Holdings Inc., et al., Case No. 15-cv-05128-JSC, U.S. District Court for the Northern District of California",
+    "dateAdded": "2026-04-18",
+    "status": "open",
+    "claimCount": 0,
+    "estimatedClaimTime": "5 minutes"
+  },
+  {
+    "id": "cardiovascular-consultants-data-breach-2026",
+    "title": "$3.85M Cardiovascular Consultants Data Breach Settlement",
+    "company": "Cardiovascular Consultants",
+    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/cardiovascular-consultants.jpg",
+    "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/cvcdatasettlement-com.png",
+    "totalAmount": "$3.85 million",
+    "individualPayout": "$75 (or up to $5,000 with proof)",
+    "deadline": "2026-07-01",
+    "category": "Data Breach",
+    "eligibility": "Individuals whose personal information was compromised in the Sept. 2023 Cardiovascular Consultants data breach",
+    "eligibilityBullets": [
+      "Your personal info was in the CVC data breach (Sept. 2023)",
+      "You received a data breach notification from CVC",
+      "Includes names, SSNs, medical info, and driver's license numbers"
+    ],
+    "proofRequired": true,
+    "proofDetails": "You need to be identified as someone whose info was compromised in the Sept. 2023 CVC data breach. No receipts needed for the $75 pro rata payment. Documentation required for up to $5,000 in out-of-pocket losses.",
+    "claimURL": "https://forms.ksacms.com/efiling/fr/eform/CVCDataSettlement_claimform/new?form-version=1",
+    "sourceURL": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-85m-cardiovascular-consultants-data-breach-class-action-settlement/",
+    "summary": "Cardiovascular Consultants is paying $3.85 million after a 2023 data breach exposed patient names, Social Security numbers, and medical records. You can claim $75 with no proof, or up to $5,000 for documented losses. Also includes 2 years of medical monitoring.",
+    "scope": "Nationwide",
+    "caseInfo": "Stroup, et al. v. Cardiovascular Consultants Ltd., Case No. CV2023-020048, Superior Court of Arizona, Maricopa County",
+    "dateAdded": "2026-04-18",
+    "status": "open",
+    "claimCount": 0,
+    "estimatedClaimTime": "5 minutes"
   }
 ]
