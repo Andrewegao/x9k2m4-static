@@ -435,7 +435,7 @@
       "No proof of purchase required"
     ],
     "proofRequired": true,
-    "proofDetails": "Active Robinhood account for automatic payment, or submit claim form with account details for those without active account.",
+    "proofDetails": "Submit claim form with Robinhood account details. Active account holders can opt for account credit or redirect to another financial institution.",
     "claimURL": "https://www.robinhoodorderflowsettlement.com/",
     "sourceURL": "https://www.classaction.org/settlements",
     "summary": "Robinhood agreed to settle claims that it failed to disclose its payment-for-order-flow practices and did not seek the best execution for customer trades. Eligible customers who traded during the class period can claim a share.",
