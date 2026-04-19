@@ -84,34 +84,6 @@
     "estimatedClaimTime": "~2 min"
   },
   {
-    "id": "walmart-spark-driver-2026",
-    "title": "$100M Walmart Spark Driver Pay & Misclassification Settlement",
-    "company": "Walmart",
-    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/walmart.jpg",
-    "totalAmount": "$100 million",
-    "individualPayout": "Varies",
-    "deadline": "2026-12-31",
-    "category": "Employment",
-    "eligibility": "Walmart Spark delivery drivers who lost earnings due to deceptive pay representations or withheld tips.",
-    "eligibilityBullets": [
-      "Worked as a Walmart Spark delivery driver",
-      "Experienced deceptive earnings claims or withheld tips",
-      "Drove for Spark during the relevant time period"
-    ],
-    "proofRequired": true,
-    "proofDetails": "Automatic payment to identified Spark drivers - no claim form",
-    "claimURL": "https://www.ftc.gov/news-events/news/press-releases/2026/02/walmart-agrees-100-million-judgment-settle-ftc-states-charges-over-deceptive-earnings-claims-related",
-    "sourceURL": "https://www.ftc.gov/news-events/news/press-releases/2026/02/walmart-agrees-100-million-judgment-settle-ftc-states-charges-over-deceptive-earnings-claims-related",
-    "summary": "Walmart agreed to pay $100 million to settle FTC and state charges that it misled Spark delivery drivers about earnings and withheld tips from gig workers.",
-    "scope": "Nationwide",
-    "caseInfo": "FTC v. Walmart Inc.",
-    "dateAdded": "2026-02-20",
-    "status": "open",
-    "claimCount": null,
-    "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/walmart-com.png",
-    "estimatedClaimTime": "~3 min"
-  },
-  {
     "id": "copa-america-final-2026",
     "title": "$14M Copa America Final Unsafe Stadium Crowd Conditions Settlement",
     "company": "Hard Rock Stadium",
@@ -448,36 +420,8 @@
     "estimatedClaimTime": "~2 min"
   },
   {
-    "id": "google-play-store-2026",
-    "title": "$630M Google Play Store App Developer Antitrust Overcharge Settlement",
-    "company": "Google",
-    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/google-play.jpg",
-    "totalAmount": "$630 million",
-    "individualPayout": "Minimum $2 (varies by spending)",
-    "deadline": "2026-05-09",
-    "category": "Consumer",
-    "eligibility": "Consumers in the U.S., Puerto Rico, or U.S. Virgin Islands who purchased an app or paid for in-app content through Google Play Billing between August 16, 2016 and September 30, 2023.",
-    "eligibilityBullets": [
-      "Purchased apps or in-app content through Google Play Store",
-      "Purchases made between August 16, 2016 and September 30, 2023",
-      "Most people will receive automatic payment via PayPal or Venmo"
-    ],
-    "proofRequired": true,
-    "proofDetails": "Automatic payment to identified Google Play purchasers",
-    "claimURL": "https://playstoresubscriptionsettlement.com/",
-    "sourceURL": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/630m-google-play-store-class-action-settlement/",
-    "summary": "Google agreed to pay $630 million to settle allegations that its Google Play Store engaged in anticompetitive practices by charging excessive fees and restricting app distribution, resulting in higher prices for consumers.",
-    "scope": "Nationwide (including Puerto Rico and U.S. Virgin Islands)",
-    "caseInfo": "State of Utah et al. v. Google LLC et al., Case No. 3:21-cv-05227-JD",
-    "dateAdded": "2026-03-16",
-    "status": "open",
-    "claimCount": null,
-    "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/google-com.png",
-    "estimatedClaimTime": "~2 min"
-  },
-  {
     "id": "robinhood-order-flow-2026",
-    "title": "$65M Robinhood Order Flow Settlement",
+    "title": "$2M Robinhood Order Flow Settlement",
     "company": "Robinhood",
     "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/robinhood.jpg",
     "totalAmount": "$65 million",
@@ -894,34 +838,6 @@
     "claimCount": null,
     "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/ford-com.png",
     "estimatedClaimTime": "~10 min"
-  },
-  {
-    "id": "boohoo-advertised-sales-2026",
-    "title": "Boohoo Advertised Sales Settlement - $10 Gift Card",
-    "company": "Boohoo Group",
-    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/boohoo.jpg",
-    "totalAmount": "Not disclosed",
-    "individualPayout": "$10 Gift Card",
-    "deadline": null,
-    "category": "Consumer",
-    "eligibility": "Consumers who bought products from Boohoo, BoohooMAN, PrettyLittleThing, or Nasty Gal outside of California between April 1, 2016 and June 17, 2022.",
-    "eligibilityBullets": [
-      "Purchased from Boohoo, BoohooMAN, PrettyLittleThing, or Nasty Gal",
-      "Purchase was outside of California",
-      "Purchased between April 1, 2016 and June 17, 2022"
-    ],
-    "proofRequired": true,
-    "proofDetails": "Automatic gift cards to identified purchasers - no claim form",
-    "claimURL": "https://www.boohoonationwidepricingsettlement.com/",
-    "sourceURL": "https://www.classaction.org/settlements",
-    "summary": "Boohoo Group agreed to settle claims related to deceptive pricing practices on Boohoo, BoohooMAN, PrettyLittleThing, and Nasty Gal websites. Eligible consumers can receive a $10 gift card. Claims accepted on a rolling basis.",
-    "scope": "Nationwide (excluding California)",
-    "caseInfo": "Boohoo Advertised Sales Settlement",
-    "dateAdded": "2026-03-21",
-    "status": "open",
-    "claimCount": null,
-    "logoURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/logos/boohoo-com.png",
-    "estimatedClaimTime": "~2 min"
   },
   {
     "id": "traeger-pellet-grills-2026",
