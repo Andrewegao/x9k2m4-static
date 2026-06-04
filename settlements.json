@@ -3192,5 +3192,33 @@
     "claimCount": null,
     "logoURL": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://servicespotsettlement.com&size=256",
     "estimatedClaimTime": "~3 min"
+  },
+  {
+    "id": "spotify-payola-arbitration-2025",
+    "title": "Spotify \"Discovery Mode\" Payola Investigation",
+    "company": "Spotify",
+    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/images/spotify-payola.jpg",
+    "totalAmount": "Undisclosed",
+    "individualPayout": "$500+",
+    "deadline": "2026-06-02",
+    "category": "Consumer",
+    "eligibility": "All U.S. Spotify users (free or paid) who used playlists and relied on personalization claims.",
+    "eligibilityBullets": [
+      "Used Spotify (free or premium) in the United States",
+      "Relied on personalized playlists or recommendations",
+      "No proof of payment required"
+    ],
+    "proofRequired": false,
+    "proofDetails": "No proof required \u2014 just need to have used Spotify.",
+    "claimURL": "https://lantern.labaton.com/case/spotify",
+    "sourceURL": "https://www.classaction.org/blog/spotify-lawsuit-alleges-personalized-song-recommendations-are-based-on-pay-for-play-monetary-incentives",
+    "summary": "Labaton Keller Sucharow is investigating claims that Spotify's \"Discovery Mode\" is modern payola \u2014 artists pay reduced royalties to get boosted in your \"personalized\" playlists. If you used Spotify and relied on their recommendations being genuinely tailored to you, you may be eligible for $500 or more through mass arbitration.",
+    "scope": "Nationwide",
+    "caseInfo": "Capolongo v. Spotify USA Inc., Manhattan Federal Court (Filed Nov 2025)",
+    "dateAdded": "2025-06-15",
+    "status": "open",
+    "claimCount": null,
+    "logoURL": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://spotify.com&size=256",
+    "estimatedClaimTime": "~2 min"
   }
 ]
