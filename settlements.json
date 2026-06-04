@@ -3208,8 +3208,8 @@
       "Relied on personalized playlists or recommendations",
       "No proof of payment required"
     ],
-    "proofRequired": false,
-    "proofDetails": "No proof required \u2014 just need to have used Spotify.",
+    "proofRequired": true,
+    "proofDetails": "Spotify account required to verify eligibility.",
     "claimURL": "https://lantern.labaton.com/case/spotify",
     "sourceURL": "https://www.classaction.org/blog/spotify-lawsuit-alleges-personalized-song-recommendations-are-based-on-pay-for-play-monetary-incentives",
     "summary": "Labaton Keller Sucharow is investigating claims that Spotify's \"Discovery Mode\" is modern payola \u2014 artists pay reduced royalties to get boosted in your \"personalized\" playlists. If you used Spotify and relied on their recommendations being genuinely tailored to you, you may be eligible for $500 or more through mass arbitration.",
