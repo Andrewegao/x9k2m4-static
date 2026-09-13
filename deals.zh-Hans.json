@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mrs-meyers-hand-soap-rainwater-2026",
+    "title": "太太。MEYER'S CLEAN DAY 洗手液 — 雨水香味 12.5 盎司",
+    "brand": "Mrs. Meyer's",
+    "description": "含有精油的植物源洗手液。上个月购买了 30K 以上的 Amazon's Choice。两个可持续性特征。",
+    "imageURL": "https://m.media-amazon.com/images/I/71h1eBjdP6L._SL1500_.jpg",
+    "salePrice": 4.79,
+    "originalPrice": 5.49,
+    "discountPercent": 13,
+    "couponCode": null,
+    "affiliateURL": "https://amzn.to/48LVBdj",
+    "source": "Amazon",
+    "category": "Home",
+    "rating": 4.8,
+    "reviewCount": 18237,
+    "aiScore": 87,
+    "dateAdded": "2026-05-07",
+    "features": [
+      "不到 5 美元就能买到让你的浴室闻起来像水疗中心的洗手液",
+      "雨水的气味干净清新——不浓烈或不自然",
+      "植物源成分——不含对羟基苯甲酸酯、邻苯二甲酸盐或人工色素",
+      "上个月购买了超过 3 万件——人们确实囤积了这些",
+      "瓶子看起来很好，可以放在柜台上而不需要隐藏它"
+    ],
+    "isPrime": true,
+    "reviewSummary": {
+      "pros": [
+        "闻起来令人难以置信——客人总是问你用的是什么肥皂",
+        "不会像大多数抗菌肥皂那样使双手变干",
+        "泵实际上工作良好，不会堵塞或滴水"
+      ],
+      "cons": [
+        "如果您有一个大家庭，12.5 盎司会很快 — 购买 3 件装"
+      ]
+    }
+  },
+  {
+    "id": "ninja-air-fryer-toaster-oven-sp151-2026",
+    "title": "Ninja 空气炸锅烤面包机烤箱组合 8 合 1 — 翻转和远离 SP151",
+    "brand": "Ninja",
+    "description": "1800 瓦 8 合 1 空气炸锅烤箱，可翻转以紧凑存储。上个月购买了 6K+ 的 Amazon's Choice。",
+    "imageURL": "https://m.media-amazon.com/images/I/81GjKVdQpAL._AC_SL1500_.jpg",
+    "salePrice": 149.95,
+    "originalPrice": 249.99,
+    "discountPercent": 40,
+    "couponCode": null,
+    "affiliateURL": "https://amzn.to/4tWZ94N",
+    "source": "Amazon",
+    "category": "Home",
+    "rating": 4.6,
+    "reviewCount": 29474,
+    "aiScore": 93,
+    "dateAdded": "2026-05-07",
+    "features": [
+      "立减 100 美元 — 目前最大的 Ninja 优惠，可节省 40%",
+      "8 合 1：空气炸、空气烤、空气烤、烘烤、百吉饼、吐司、脱水、再加热",
+      "不使用时可翻转到后挡板上 — 节省空间的天才",
+      "可容纳 13 英寸披萨或 9 个鸡翅 — 比普通空气炸锅空间大得多",
+      "29,000 条以上 4.6 星评论 — 亚马逊上最值得信赖的厨房用具之一"
+    ],
+    "isPrime": true,
+    "reviewSummary": {
+      "pros": [
+        "翻转式设计改变了小厨房的游戏规则——释放了柜台空间",
+        "空气炸薯条和独立装置一样，还可以烤面包和烘烤",
+        "加热速度快——大多数食物无需预热"
+      ],
+      "cons": [
+        "翻转过来后尺寸仍然不错——先测量一下你的柜台空间"
+      ]
+    }
+  }
+]

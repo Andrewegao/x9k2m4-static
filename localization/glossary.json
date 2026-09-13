@@ -1,0 +1,58 @@
+{
+  "es": {
+    "settlement": "acuerdo",
+    "class action": "demanda colectiva",
+    "claim": "reclamación",
+    "claim form": "formulario de reclamación",
+    "eligibility": "elegibilidad",
+    "proof required": "se requiere comprobante",
+    "no proof required": "no se requiere comprobante",
+    "filing deadline": "fecha límite para presentar la reclamación",
+    "estimated payout": "pago estimado",
+    "up to": "hasta",
+    "reimbursement": "reembolso",
+    "pro rata": "proporcional"
+  },
+  "zh-Hans": {
+    "settlement": "和解",
+    "class action": "集体诉讼",
+    "claim": "索赔",
+    "claim form": "索赔表",
+    "eligibility": "资格",
+    "proof required": "需要证明材料",
+    "no proof required": "无需证明材料",
+    "filing deadline": "索赔截止日期",
+    "estimated payout": "预计赔付",
+    "up to": "最高",
+    "reimbursement": "报销",
+    "pro rata": "按比例"
+  },
+  "vi": {
+    "settlement": "thỏa thuận dàn xếp",
+    "class action": "vụ kiện tập thể",
+    "claim": "yêu cầu bồi thường",
+    "claim form": "mẫu yêu cầu bồi thường",
+    "eligibility": "điều kiện",
+    "proof required": "cần bằng chứng",
+    "no proof required": "không cần bằng chứng",
+    "filing deadline": "hạn nộp yêu cầu",
+    "estimated payout": "khoản chi trả ước tính",
+    "up to": "tối đa",
+    "reimbursement": "hoàn trả",
+    "pro rata": "theo tỷ lệ"
+  },
+  "fil": {
+    "settlement": "kasunduan",
+    "class action": "class action",
+    "claim": "claim",
+    "claim form": "claim form",
+    "eligibility": "pagiging kuwalipikado",
+    "proof required": "kailangan ng patunay",
+    "no proof required": "hindi kailangan ng patunay",
+    "filing deadline": "deadline ng pagsusumite",
+    "estimated payout": "tinatayang bayad",
+    "up to": "hanggang",
+    "reimbursement": "reimbursement",
+    "pro rata": "proporsyonal"
+  }
+}

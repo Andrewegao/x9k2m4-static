@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mrs-meyers-hand-soap-rainwater-2026",
+    "title": "MRS. MEYER'S CLEAN DAY Jabón de manos — Aroma Rain Water, 12.5 oz",
+    "brand": "Mrs. Meyer's",
+    "description": "Jabón de manos de origen vegetal con aceites esenciales. Amazon's Choice con más de 30K comprados el mes pasado. Dos características de sostenibilidad.",
+    "imageURL": "https://m.media-amazon.com/images/I/71h1eBjdP6L._SL1500_.jpg",
+    "salePrice": 4.79,
+    "originalPrice": 5.49,
+    "discountPercent": 13,
+    "couponCode": null,
+    "affiliateURL": "https://amzn.to/48LVBdj",
+    "source": "Amazon",
+    "category": "Home",
+    "rating": 4.8,
+    "reviewCount": 18237,
+    "aiScore": 87,
+    "dateAdded": "2026-05-07",
+    "features": [
+      "Menos de $5 por un jabón de manos que hace que tu baño huela como un spa",
+      "El aroma del agua de lluvia es limpio y fresco, no abrumador ni artificial.",
+      "Ingredientes de origen vegetal: sin parabenos, ftalatos ni colorantes artificiales.",
+      "Más de 30.000 comprados el mes pasado: la gente literalmente se abastece de estos",
+      "La botella se ve lo suficientemente bien como para dejarla en el mostrador sin esconderla."
+    ],
+    "isPrime": true,
+    "reviewSummary": {
+      "pros": [
+        "Huele increíble: los invitados siempre preguntan qué jabón estás usando",
+        "No reseca las manos como la mayoría de los jabones antibacterianos.",
+        "La bomba realmente funciona bien y no se obstruye ni gotea."
+      ],
+      "cons": [
+        "12,5 oz se consumen rápido si tienes una casa grande: compra el paquete de 3"
+      ]
+    }
+  },
+  {
+    "id": "ninja-air-fryer-toaster-oven-sp151-2026",
+    "title": "Combo de horno tostador Ninja Air Fryer 8 en 1: abatible hacia arriba y lejos SP151",
+    "brand": "Ninja",
+    "description": "Horno tostador freidora de aire 8 en 1 de 1800 W que se levanta para un almacenamiento compacto. Amazon's Choice con 6K+ comprado el mes pasado.",
+    "imageURL": "https://m.media-amazon.com/images/I/81GjKVdQpAL._AC_SL1500_.jpg",
+    "salePrice": 149.95,
+    "originalPrice": 249.99,
+    "discountPercent": 40,
+    "couponCode": null,
+    "affiliateURL": "https://amzn.to/4tWZ94N",
+    "source": "Amazon",
+    "category": "Home",
+    "rating": 4.6,
+    "reviewCount": 29474,
+    "aiScore": 93,
+    "dateAdded": "2026-05-07",
+    "features": [
+      "$100 de descuento: la mayor oferta Ninja en este momento con un ahorro del 40%",
+      "8 en 1: freír al aire, asar al aire, asar al aire, hornear, bagel, tostar, deshidratar, recalentar",
+      "Se levanta contra el protector contra salpicaduras cuando no está en uso: genial para ahorrar espacio",
+      "Cabe una pizza de 13 \"o 9 alitas de pollo: mucho más espacio que una freidora normal",
+      "Más de 29.000 reseñas con 4,6 estrellas: uno de los electrodomésticos de cocina más confiables en Amazon"
+    ],
+    "isPrime": true,
+    "reviewSummary": {
+      "pros": [
+        "El diseño abatible cambia las reglas del juego para cocinas pequeñas: libera espacio en el mostrador",
+        "Fríe al aire tan bien como las unidades independientes, pero también tuesta y hornea",
+        "Se calienta rápidamente: no es necesario precalentar la mayoría de los alimentos."
+      ],
+      "cons": [
+        "Sigue teniendo un tamaño decente cuando está volteado hacia abajo; primero mida el espacio del mostrador"
+      ]
+    }
+  }
+]
