@@ -1,74 +1,68 @@
 [
   {
-    "id": "mrs-meyers-hand-soap-rainwater-2026",
-    "title": "MRS. MEYER'S CLEAN DAY Hand Soap — Rain Water Scent 12.5 oz",
-    "brand": "Mrs. Meyer's",
-    "description": "Plant-derived hand soap with essential oils. Amazon's Choice with 30K+ bought last month. Two sustainability features.",
-    "imageURL": "https://m.media-amazon.com/images/I/71h1eBjdP6L._SL1500_.jpg",
-    "salePrice": 4.79,
-    "originalPrice": 5.49,
-    "discountPercent": 13,
+    "id": "amazon-blink-video-doorbell-outdoor-4-camera-sy-20260924",
+    "kind": "deal",
+    "title": "Blink Video Doorbell + Outdoor 4 camera system, Sync Module Core included",
+    "brand": "Blink",
+    "retailer": "Amazon",
+    "category": "Electronics",
+    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/deals/amazon-blink-video-doorbell-outdoor-4-camera-sy-20260924.jpg",
+    "salePrice": 27.99,
+    "originalPrice": 129.98,
+    "discountPercent": 78,
     "couponCode": null,
-    "affiliateURL": "https://amzn.to/48LVBdj",
-    "source": "Amazon",
-    "category": "Home",
-    "rating": 4.8,
-    "reviewCount": 18237,
-    "aiScore": 87,
-    "dateAdded": "2026-05-07",
-    "features": [
-      "Under $5 for hand soap that makes your bathroom smell like a spa",
-      "Rain Water scent is clean and fresh — not overpowering or artificial",
-      "Plant-derived ingredients — no parabens, phthalates, or artificial colors",
-      "30K+ bought last month — people literally stock up on these",
-      "The bottle looks good enough to leave on the counter without hiding it"
-    ],
-    "isPrime": true,
-    "reviewSummary": {
-      "pros": [
-        "Smells incredible — guests always ask what soap you're using",
-        "Doesn't dry out your hands like most antibacterial soaps",
-        "The pump actually works well and doesn't clog or drip"
-      ],
-      "cons": [
-        "12.5 oz goes fast if you have a big household — buy the 3-pack"
-      ]
-    }
+    "affiliateURL": "https://www.amazon.com/dp/B0F1BMM2B7",
+    "fulfilment": "Online",
+    "signal": "trending",
+    "catch": null,
+    "eventDate": null,
+    "postedAt": "2026-09-24T01:00:15Z",
+    "endsAt": "2026-09-26T01:00:15Z",
+    "endedAt": null,
+    "checkedAt": "2026-09-24T01:05:00Z"
   },
   {
-    "id": "ninja-air-fryer-toaster-oven-sp151-2026",
-    "title": "Ninja Air Fryer Toaster Oven Combo 8-in-1 — Flip Up & Away SP151",
-    "brand": "Ninja",
-    "description": "1800W 8-in-1 air fryer toaster oven that flips up for compact storage. Amazon's Choice with 6K+ bought last month.",
-    "imageURL": "https://m.media-amazon.com/images/I/81GjKVdQpAL._AC_SL1500_.jpg",
-    "salePrice": 149.95,
-    "originalPrice": 249.99,
-    "discountPercent": 40,
+    "id": "amazon-blink-mini-2k-indoor-plug-in-security-ca-20260924",
+    "kind": "deal",
+    "title": "Blink Mini 2K+ indoor plug-in security camera, newest model, white",
+    "brand": "Blink",
+    "retailer": "Amazon",
+    "category": "Electronics",
+    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/deals/amazon-blink-mini-2k-indoor-plug-in-security-ca-20260924.jpg",
+    "salePrice": 15.99,
+    "originalPrice": 39.99,
+    "discountPercent": 60,
     "couponCode": null,
-    "affiliateURL": "https://amzn.to/4tWZ94N",
-    "source": "Amazon",
-    "category": "Home",
-    "rating": 4.6,
-    "reviewCount": 29474,
-    "aiScore": 93,
-    "dateAdded": "2026-05-07",
-    "features": [
-      "$100 off — biggest Ninja deal right now at 40% savings",
-      "8-in-1: air fry, air roast, air broil, bake, bagel, toast, dehydrate, reheat",
-      "Flips up against the backsplash when not in use — genius space saver",
-      "Fits a 13\" pizza or 9 chicken wings — way more room than a regular air fryer",
-      "29K+ reviews at 4.6 stars — one of the most trusted kitchen appliances on Amazon"
-    ],
-    "isPrime": true,
-    "reviewSummary": {
-      "pros": [
-        "The flip-up design is a game changer for small kitchens — frees up counter space",
-        "Air fries just as well as standalone units but also toasts and bakes",
-        "Heats up fast — no preheating needed for most foods"
-      ],
-      "cons": [
-        "It's still a decent size when flipped down — measure your counter space first"
-      ]
-    }
+    "affiliateURL": "https://www.amazon.com/dp/B0F3BC8661",
+    "fulfilment": "Online",
+    "signal": null,
+    "catch": null,
+    "eventDate": null,
+    "postedAt": "2026-09-24T01:00:15Z",
+    "endsAt": "2026-09-26T01:00:15Z",
+    "endedAt": null,
+    "checkedAt": "2026-09-24T01:06:00Z"
+  },
+  {
+    "id": "cracker-barrel-cracker-barrel-5-all-you-can-eat-butterm-20260924",
+    "kind": "event",
+    "title": "Cracker Barrel $5 all you can eat buttermilk pancakes, National Pancake Day",
+    "brand": "Cracker Barrel",
+    "retailer": "Cracker Barrel",
+    "category": "Other",
+    "imageURL": "https://raw.githubusercontent.com/Andrewegao/x9k2m4-static/main/deals/cracker-barrel-cracker-barrel-5-all-you-can-eat-butterm-20260924.jpg",
+    "salePrice": 5.0,
+    "originalPrice": 0.0,
+    "discountPercent": 0,
+    "couponCode": null,
+    "affiliateURL": "https://www.crackerbarrel.com/promotions/terms-and-conditions",
+    "fulfilment": "Dine-in",
+    "signal": null,
+    "catch": "Dine-in",
+    "eventDate": "2026-09-26",
+    "postedAt": "2026-09-24T01:00:15Z",
+    "endsAt": "2026-09-26T01:00:15Z",
+    "endedAt": null,
+    "checkedAt": "2026-09-24T01:10:00Z"
   }
 ]
